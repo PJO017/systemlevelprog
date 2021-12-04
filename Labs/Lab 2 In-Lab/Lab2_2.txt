@@ -1,0 +1,151 @@
+  132  pwd
+  133  ls
+  134  clear
+  135  mkdir Lab2\_P2
+  136  ls
+  137  cd Lab2_P2
+  138  cp /home/frondel1/public/RealEstate.csv
+  139  clear
+  140  cp /home/frondel1/public/RealEstate.csv
+  141  clear
+  142  cd /home
+  143  clear
+  144  ls
+  145  cd frondel1
+  146  ls
+  147  clear
+  148  cd Lab2_P2
+  149  cp /home/frondell1/public/RealEstate.csv
+  150  cp /home/frondel1/public/RealEstate.csv
+  151  cd /home
+  152  clear
+  153  ls
+  154  cd pofrem1
+  155  cd pofremu1
+  156  clear
+  157  ls
+  158  cd
+  159  clear
+  160  cd Lab2_P2
+  161  cp /home/frondel1/public/RealEstate.csv
+  162  cd /home
+  163  ls
+  164  cd Lab2_p2
+  165  cd Lab2_P2
+  166  clear
+  167  cp /home/bbello1/public/RealEstate.csv
+  168  ls
+  169  cd /home/bbello/public
+  170  cd /home
+  171  ls
+  172  cd bbello1
+  173  cd
+  174  clear
+  175  cd Lab2_P2
+  176  cp /home/bbello1/public/RealEstate.csv
+  177  cp /home/bbello1/public/RealEstate.csv RealEstate.csv
+  178  cp --help
+  179  clear
+  180  cp /home/bbello1/public/RealEstate.csv
+  181  cp /home/bbello1/public/RealEstate.csv txt
+  182  cp RealEstate.csv /home/bbello1/public/RealEstate.csv
+  183  cd Lab2_P2
+  184  cp /home/bbello1/public/RealEstate.csv
+  185  cp RealEstate.csv /home/bbello1/public/RealEstate.csv
+  186  clear
+  187  cp /home/bbello1/public/RealEstate.csv
+  188  cp RealEstate.csv /home/bbello1/public/RealEstate.csv
+  189  cp /home/bbello1/public/RealEstate.csv RealEstate.csv
+  190  ls
+  191  cd Lab2_P2
+  192  ls
+  193  cat > RealEstate.csv
+  194  clear
+  195  cat > RealEstate.csv
+  196  clear
+  197  head RealEstate.csv
+  198  ls
+  199  rm RealEstate.csv
+  200  ls
+  201  clear
+  202  cp /home/bbello1/public/RealEstate.csv .
+  203  cp /home/bbello1/public/RealEstate.csv
+  204  cp /home/bbello1/public/RealEstate.csv .
+  205  clear
+  206  cp /home/bbello1/public/RealEstate.csv .
+  207  cp /home/bbello1/public/RealEstate.csv RealEstate.csv
+  208  cp
+  209  cp /home/bbello1/public/RealEstate.csv .
+  210  cp /home/bbello1/public/RealEstate.csv.
+  211  cp /home/bbello1/public/RealEstate.csv .
+  212  clear
+  213  exit
+  214  clear
+  215  cd Lab2_P2
+  216  cp /home/bbello1/public/RealEstate.csv .
+  217  clear
+  218  cp /home/bbello1/public/RealEstate.csv .
+  219  sudo cp /home/bbello1/public/RealEstate.csv .
+  220  clear
+  221  cp /home/bbello1/public/RealEstate.csv RealEstate.csv
+  222  clear
+  223  cp /home/bbello1/public/RealEstate.csv .
+  224  cd Lab2_p2
+  225  cd Lab2_P2
+  226  clea
+  227  clear
+  228  cp /home/bbello1/public/RealEstate.csv .
+  229  cd /home/bbello1
+  230  cd public
+  231  ls
+  232  clear
+  233  ls
+  234  cd ..
+  235  ls
+  236  clea
+  237  cd ..
+  238  clear
+  239  ls
+  240  cd ~
+  241  clear
+  242  ls
+  243  cd Lab2_P2
+  244  cp /home/bbello1/public/RealEstate.csv .
+  245  cd Lab2_P2
+  246  cp /home/bbello1/public/RealEstate.csv .
+  247  clear
+  248  cd Lab2_P2
+  249  cp /home/bbello1/public/RealEstate.csv .
+  250  ls
+  251  head RealEstate.csv
+  252  ls
+  253  cd Lab2_P2
+  254  ls
+  255  wc RealEstate.csv
+  256  head -3 RealEstate.csv
+  257  wc -l RealEstate.csv
+  258  mkdir ../public
+  259  cd .
+  260  cd ..
+  261  ls
+  262  cd public
+  263  cp ../Lab2_P2/RealEstate.csv myRealEstate.csv
+  264  ls
+  265  pwd
+  266  ls /home/pofremu1/public
+  267  mkdir Regular
+  268  mkdir Submission
+  269  mkdir ./Submission/Lab2
+  270  mkdir ./Submission/Lab3
+  271  mv Regular Others
+  272  cp ../Lab2_P2 ./Submission/Lab2
+  273  rm -rf ../Lab2_P2
+  274  ls
+  275  cd Submission/
+  276  ls
+  277  cd Lab2
+  278  ls
+  279  cd ..
+  280  ls
+  281  history > Lab2_2.txt
+  282  history
